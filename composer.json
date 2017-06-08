@@ -1,0 +1,19 @@
+{
+  "name": "wanyujun/php-jwt",
+  "description": "php jwt auth restful",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "laowan",
+      "email": "laowan@huiwe.cn"
+    }
+  ],
+  "require":{
+    "autoload":{
+      "psr-4" : {
+        "Jwt\\" : "src"
+      }
+    }
+  }
+}
